@@ -7,7 +7,7 @@ Senior Cloud Engineer
 Senior Cloud Engineer specializing in Azure Cloud Security, with experience in implementing and deploying Azure Infrastructure. #LoveCloudComputing
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [www.ManishKumar.info](http://www.ManishKumar.info)
+* 🖥️  See my portfolio at *Hidden*
 * ✉️  You can contact me at [manishhkumar243@gmail.com](mailto:manishhkumar243@gmail.com)
 * 🤝  I'm open to collaborating on Interesting Projects based on Cloud and Azure
 * ⚡  An enthusiastic, Solivagant, and passionate guy who loves hitchhiking and couch-surf.
