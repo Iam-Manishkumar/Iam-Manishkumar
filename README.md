@@ -1,11 +1,12 @@
-[![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Manish</h1>
 <h3 align="center">Ex-Senior Cloud Engineer, Microsoft Azure</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-manishkumar&label=Profile%20views&color=0e75b6&style=flat" alt="iam-manishkumar" /> </p>
 
-
 <p align="left"> <a href="https://twitter.com/manishkumar_iam" target="blank"><img src="https://img.shields.io/twitter/follow/manishkumar_iam?logo=twitter&style=for-the-badge" alt="manishkumar_iam" /></a> </p>
+
+- 📖 I’m currently pursuing Master's in **Cloud and Network Infrastructures**
 
 - 💬 Ask me about **Cloud Computing, Microsoft Azure, DevOps**
 
