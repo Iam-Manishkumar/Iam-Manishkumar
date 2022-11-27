@@ -1,4 +1,4 @@
-![MasterHead](https://im.ezgif.com/tmp/ezgif-1-0ab3b85954.gif)
+![MasterHead](https://im.ezgif.com/tmp/ezgif-1-1e1f2725af.gif)
 
 <h1 align="center">Hi 👋, I'm Manish</h1>
 <h3 align="center">Ex-Senior Cloud Engineer, Microsoft Azure</h3>
