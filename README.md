@@ -1,4 +1,4 @@
-![MasterHead](https://im.ezgif.com/tmp/ezgif-1-1e1f2725af.gif)
+![MasterHead](https://blogger.googleusercontent.com/img/a/AVvXsEilF4cqtFvO6e7ow3qOL_aJmodYB_ODUaiNBhoBbMlpAl95xwltT_2uz_sKIpepETbntQhAGXl3QQjBXolsL7ncImpHs4nZnromMEUv8DtzoarhboiNjglCIYtUppY1oyH2AE7MAI3QLFRhV9mhrPJyQz9v-8JCe0nLvq8JN9Hvs6BuPlshdX8lnQIWmw)
 
 <h1 align="center">Hi 👋, I'm Manish</h1>
 <h3 align="center">Ex-Senior Cloud Engineer, Microsoft Azure</h3>
