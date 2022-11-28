@@ -10,7 +10,7 @@
 
 - 📖 I’m currently pursuing Master's in **Cloud and Network Infrastructures**
 
-- 💬 Ask me about **Cloud Computing, Microsoft Azure, DevOps**
+- 💬 Ask me about **Cloud Computing, Microsoft Azure, and DevOps**
 
 - 📫 How to reach me **manishkumaar69@gmail.com**
 
