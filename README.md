@@ -1,7 +1,7 @@
 ![MasterHead](https://blogger.googleusercontent.com/img/a/AVvXsEilF4cqtFvO6e7ow3qOL_aJmodYB_ODUaiNBhoBbMlpAl95xwltT_2uz_sKIpepETbntQhAGXl3QQjBXolsL7ncImpHs4nZnromMEUv8DtzoarhboiNjglCIYtUppY1oyH2AE7MAI3QLFRhV9mhrPJyQz9v-8JCe0nLvq8JN9Hvs6BuPlshdX8lnQIWmw)
 
 <h1 align="center">Hi 👋, I'm Manish</h1>
-<h3 align="center">Ex-Senior Cloud Engineer, Microsoft Azure</h3>
+<h3 align="center">Former Summer Trainee at Neste - IT Production Platforms</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-manishkumar&label=Profile%20views&color=0e75b6&style=flat" alt="iam-manishkumar" /> </p>
